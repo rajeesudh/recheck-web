@@ -81,10 +81,10 @@ public class RecheckSeleniumAdapter implements RecheckAdapter {
 			assert peer == null : "List is sorted, we should not have path twice.";
 
 			if ( parentPath == null ) {
-				root = new RootElementPeer( defaultValuesProvider, webData, path, title, screenshot );
+				root = new RootElementPeer( webData, path, title, screenshot );
 				peer = root;
 			} else {
-				peer = new WebElementPeer( defaultValuesProvider, webData, path );
+				peer = new WebElementPeer( webData, path );
 				final WebElementPeer parent = converted.get( parentPath );
 				assert parent != null : "We sorted the map, parent should already be there.";
 				parent.addChild( peer );
@@ -124,8 +124,7 @@ public class RecheckSeleniumAdapter implements RecheckAdapter {
 
 	@Override
 	public DefaultValueFinder getDefaultValueFinder() {
-		// TODO DefaultValueFinder is just a stub.
-		return ( identifyingAttributes, attributesKey ) -> null;
+		return defaultValuesProvider;
 	}
 
 }
