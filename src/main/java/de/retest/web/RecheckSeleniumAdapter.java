@@ -32,11 +32,7 @@ public class RecheckSeleniumAdapter implements RecheckAdapter {
 
 	private static final Logger logger = LoggerFactory.getLogger( RecheckSeleniumAdapter.class );
 
-	private final DefaultValuesProvider defaultValuesProvider;
-
-	public RecheckSeleniumAdapter() {
-		defaultValuesProvider = new DefaultValuesProvider();
-	}
+	private final DefaultValuesProvider defaultValuesProvider = new DefaultValuesProvider();
 
 	@Override
 	public boolean canCheck( final Object toVerify ) {
