@@ -4,7 +4,7 @@ sudo: false
 
 addons:
   chrome: stable
-  firefox: latest
+  firefox: 62.0.3
   apt:
     packages:
       - chromium-chromedriver
