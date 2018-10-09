@@ -13,6 +13,12 @@ import de.retest.recheck.Recheck;
 import de.retest.recheck.RecheckImpl;
 import de.retest.web.testutils.FirefoxOptionsFactory;
 
+
+/*	TODO: Add a list of different web drivers so that each website will be tested with the drivers from the list.
+	TODO: e.g. https://gist.github.com/dwelch2344/3907781
+*/
+
+// FirefoxTest is not a final class, it is only a prototype for the first test of another Webdriver.
 public class FirefoxTest {
 
 	WebDriver driver;

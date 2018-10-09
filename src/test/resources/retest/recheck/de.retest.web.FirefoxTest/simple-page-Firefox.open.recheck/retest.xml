@@ -35,7 +35,7 @@
 					</entry>
 					<entry>
 						<key>line-height</key>
-						<value xsi:type="xsd:string">19.2px</value>
+						<value xsi:type="xsd:string">19px</value>
 					</entry>
 					<entry>
 						<key>quotes</key>
@@ -81,7 +81,7 @@
 						</entry>
 						<entry>
 							<key>line-height</key>
-							<value xsi:type="xsd:string">19.2px</value>
+							<value xsi:type="xsd:string">19px</value>
 						</entry>
 						<entry>
 							<key>quotes</key>
@@ -128,7 +128,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -171,7 +171,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -218,7 +218,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -266,7 +266,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -312,7 +312,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -356,7 +356,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -404,7 +404,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -452,7 +452,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -545,7 +545,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -593,7 +593,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -641,7 +641,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -688,7 +688,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -736,7 +736,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -785,7 +785,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -831,7 +831,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -877,7 +877,7 @@
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>quotes</key>
@@ -924,7 +924,7 @@
 										</entry>
 										<entry>
 											<key>line-height</key>
-											<value xsi:type="xsd:string">19.2px</value>
+											<value xsi:type="xsd:string">19px</value>
 										</entry>
 										<entry>
 											<key>quotes</key>
@@ -972,7 +972,7 @@
 										</entry>
 										<entry>
 											<key>line-height</key>
-											<value xsi:type="xsd:string">19.2px</value>
+											<value xsi:type="xsd:string">19px</value>
 										</entry>
 										<entry>
 											<key>quotes</key>
@@ -1021,7 +1021,7 @@
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>quotes</key>
@@ -1070,7 +1070,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -1117,7 +1117,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1164,7 +1164,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1207,7 +1207,7 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1251,7 +1251,7 @@
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -1299,7 +1299,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1343,7 +1343,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -1390,7 +1390,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1434,7 +1434,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1477,7 +1477,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1552,7 +1552,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>outline-color</key>
@@ -1605,7 +1605,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1649,7 +1649,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1693,7 +1693,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1737,7 +1737,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -1788,7 +1788,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1862,7 +1862,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>outline-color</key>
@@ -1920,7 +1920,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -1967,7 +1967,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2013,7 +2013,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -2131,7 +2131,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>quotes</key>
@@ -2173,7 +2173,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 										</entry>
 										<entry>
 											<key>line-height</key>
-											<value xsi:type="xsd:string">19.2px</value>
+											<value xsi:type="xsd:string">19px</value>
 										</entry>
 										<entry>
 											<key>quotes</key>
@@ -2275,7 +2275,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2318,7 +2318,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2362,7 +2362,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2410,7 +2410,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2464,7 +2464,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2512,7 +2512,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2560,7 +2560,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2608,7 +2608,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2654,7 +2654,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -2699,7 +2699,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2746,7 +2746,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -2789,7 +2789,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>quotes</key>
@@ -2835,7 +2835,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2879,7 +2879,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2923,7 +2923,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -2967,7 +2967,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -3014,7 +3014,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
@@ -3060,7 +3060,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">19.2px</value>
+									<value xsi:type="xsd:string">19px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -3106,7 +3106,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19.2px</value>
+										<value xsi:type="xsd:string">19px</value>
 									</entry>
 									<entry>
 										<key>quotes</key>
@@ -3168,7 +3168,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 										</entry>
 										<entry>
 											<key>line-height</key>
-											<value xsi:type="xsd:string">19.2px</value>
+											<value xsi:type="xsd:string">19px</value>
 										</entry>
 										<entry>
 											<key>padding-bottom</key>
@@ -3239,7 +3239,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 											</entry>
 											<entry>
 												<key>line-height</key>
-												<value xsi:type="xsd:string">19.2px</value>
+												<value xsi:type="xsd:string">19px</value>
 											</entry>
 											<entry>
 												<key>quotes</key>
@@ -3286,7 +3286,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 											</entry>
 											<entry>
 												<key>line-height</key>
-												<value xsi:type="xsd:string">19.2px</value>
+												<value xsi:type="xsd:string">19px</value>
 											</entry>
 											<entry>
 												<key>quotes</key>
@@ -3334,7 +3334,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 											</entry>
 											<entry>
 												<key>line-height</key>
-												<value xsi:type="xsd:string">19.2px</value>
+												<value xsi:type="xsd:string">19px</value>
 											</entry>
 											<entry>
 												<key>quotes</key>
@@ -3382,7 +3382,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 						</entry>
 						<entry>
 							<key>line-height</key>
-							<value xsi:type="xsd:string">19.2px</value>
+							<value xsi:type="xsd:string">19px</value>
 						</entry>
 						<entry>
 							<key>quotes</key>
@@ -3425,7 +3425,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">19.2px</value>
+								<value xsi:type="xsd:string">19px</value>
 							</entry>
 							<entry>
 								<key>quotes</key>
