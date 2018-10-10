@@ -497,7 +497,19 @@
 								</entry>
 								<entry>
 									<key>line-height</key>
-									<value xsi:type="xsd:string">14px</value>
+									<value xsi:type="xsd:string">15px</value>
+								</entry>
+								<entry>
+									<key>font-size</key>
+									<value xsi:type="xsd:string">12px</value>
+								</entry>
+								<entry>
+									<key>margin-bottom</key>
+									<value xsi:type="xsd:string">12px</value>
+								</entry>
+								<entry>
+									<key>margin-top</key>
+									<value xsi:type="xsd:string">12px</value>
 								</entry>
 								<entry>
 									<key>quotes</key>
@@ -1552,7 +1564,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">19px</value>
+										<value xsi:type="xsd:string">20px</value>
 									</entry>
 									<entry>
 										<key>outline-color</key>
@@ -2046,10 +2058,6 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 										<value xsi:type="xsd:string">auto auto</value>
 									</entry>
 									<entry>
-										<key>border-bottom-width</key>
-										<value xsi:type="xsd:string">2px</value>
-									</entry>
-									<entry>
 										<key>border-image-outset</key>
 										<value xsi:type="xsd:string">0</value>
 									</entry>
@@ -2058,28 +2066,16 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 										<value xsi:type="xsd:string">stretch stretch</value>
 									</entry>
 									<entry>
-										<key>border-left-width</key>
-										<value xsi:type="xsd:string">2px</value>
-									</entry>
-									<entry>
-										<key>border-right-width</key>
-										<value xsi:type="xsd:string">2px</value>
-									</entry>
-									<entry>
-										<key>border-top-width</key>
-										<value xsi:type="xsd:string">2px</value>
-									</entry>
-									<entry>
 										<key>font-family</key>
-										<value xsi:type="xsd:string">-apple-system</value>
+										<value xsi:type="xsd:string">sans-serif</value>
 									</entry>
 									<entry>
 										<key>font-size</key>
-										<value xsi:type="xsd:string">11px</value>
+										<value xsi:type="xsd:string">14px</value>
 									</entry>
 									<entry>
 										<key>line-height</key>
-										<value xsi:type="xsd:string">14px</value>
+										<value xsi:type="xsd:string">17px</value>
 									</entry>
 									<entry>
 										<key>margin-left</key>
@@ -2220,7 +2216,7 @@ document.write(&quot; and with document.write again&quot;);</attribute>
 							</entry>
 							<entry>
 								<key>line-height</key>
-								<value xsi:type="xsd:string">38.4px</value>
+								<value xsi:type="xsd:string">39px</value>
 							</entry>
 							<entry>
 								<key>margin-bottom</key>
