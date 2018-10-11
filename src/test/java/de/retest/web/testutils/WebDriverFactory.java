@@ -1,7 +1,6 @@
 package de.retest.web.testutils;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.stream.Stream;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,33 +10,44 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 
 public class WebDriverFactory {
 
-	// With several drivers an enum would be useful?!
-	public static final String CHROME_DRIVER = "chromedriver";
-	public static final String FIREFOX_DRIVER = "firefoxdriver";
-	public static final String EDGE_DRIVER = "edgedriver";
-	public static final String IE_DRIVER = "iedriver";
-	public static final String SAFARI_DRIVER = "safaridriver";
+	public enum Driver {
+		CHROME_DRIVER,
+		FIREFOX_DRIVER,
+		EGE_DRIVER,
+		IE_DRIVER,
+		SAFARI_DRIVER
+	}
 
-	public static WebDriver getWebDriver( final String driver ) {
+	// If ChromeDriver is not in your PATH, uncomment this and point to your installation.
+	// e.g. it can be downloaded from http://chromedriver.chromium.org/downloads
+	//		System.setProperty( "webdriver.chrome.driver", "path/to/chromedriver" );
+	public static WebDriver driver( final Driver driver ) {
 		switch ( driver ) {
 			case CHROME_DRIVER: {
-				return new ChromeDriver(
-						new ChromeOptions().addArguments( "--headless", "--no-sandbox", "--window-size=1200,800" ) );
+				return new ChromeDriver( new ChromeOptions().addArguments(
+						// Enable headless mode for faster execution.
+						"--headless",
+						// Use Chrome in container-based Travis CI environment (see https://docs.travis-ci.com/user/chrome#Sandboxing).
+						"--no-sandbox",
+						// Fix window size for stable results.
+						"--window-size=1200,800" ) );
 			}
 			case FIREFOX_DRIVER: {
-				return new FirefoxDriver( new FirefoxOptions().addArguments( "--headless", "--window-size=1200,800" ) );
+				return new FirefoxDriver( new FirefoxOptions().addArguments(
+						// Enable headless mode for faster execution.
+						"--headless",
+						// Fix window size for stable results.
+						"--window-size=1200,800" ) );
 			}
 			default:
 				throw new RuntimeException( "There is not a supported web-driver named " + driver );
 		}
 	}
 
-	public static List<WebDriver> getWebDriverList() {
-		return new ArrayList<WebDriver>() {
-			{
-				add( getWebDriver( CHROME_DRIVER ) );
-				add( getWebDriver( FIREFOX_DRIVER ) );
-			}
-		};
+	public static Stream<WebDriver> drivers() {
+		return Stream.of( //
+				(WebDriverFactory.driver( WebDriverFactory.Driver.CHROME_DRIVER )), //
+				(WebDriverFactory.driver( WebDriverFactory.Driver.FIREFOX_DRIVER )) );
 	}
+
 }
