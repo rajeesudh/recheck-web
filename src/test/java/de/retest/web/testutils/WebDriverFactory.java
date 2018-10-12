@@ -18,9 +18,6 @@ public class WebDriverFactory {
 		SAFARI_DRIVER
 	}
 
-	// If ChromeDriver is not in your PATH, uncomment this and point to your installation.
-	// e.g. it can be downloaded from http://chromedriver.chromium.org/downloads
-	//		System.setProperty( "webdriver.chrome.driver", "path/to/chromedriver" );
 	public static WebDriver driver( final Driver driver ) {
 		switch ( driver ) {
 			case CHROME_DRIVER: {
@@ -36,6 +33,7 @@ public class WebDriverFactory {
 				return new FirefoxDriver( new FirefoxOptions().addArguments(
 						// Enable headless mode for faster execution.
 						"--headless",
+						// Use
 						// Fix window size for stable results.
 						"--window-size=1200,800" ) );
 			}
@@ -46,8 +44,8 @@ public class WebDriverFactory {
 
 	public static Stream<WebDriver> drivers() {
 		return Stream.of( //
-				(WebDriverFactory.driver( WebDriverFactory.Driver.CHROME_DRIVER )), //
-				(WebDriverFactory.driver( WebDriverFactory.Driver.FIREFOX_DRIVER )) );
+				(WebDriverFactory.driver( WebDriverFactory.Driver.CHROME_DRIVER ))//, //
+		/* (WebDriverFactory.driver( WebDriverFactory.Driver.FIREFOX_DRIVER )) */ );
 	}
 
 }
