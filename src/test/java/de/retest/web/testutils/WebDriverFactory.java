@@ -33,7 +33,8 @@ public class WebDriverFactory {
 				return new FirefoxDriver( new FirefoxOptions().addArguments(
 						// Enable headless mode for faster execution.
 						"--headless",
-						// Use
+						// Use Firefox in container-based Travis CI environment.
+						"--no-sandbox",
 						// Fix window size for stable results.
 						"--window-size=1200,800" ) );
 			}
@@ -44,8 +45,8 @@ public class WebDriverFactory {
 
 	public static Stream<WebDriver> drivers() {
 		return Stream.of( //
-				(WebDriverFactory.driver( WebDriverFactory.Driver.CHROME_DRIVER ))//, //
-		/* (WebDriverFactory.driver( WebDriverFactory.Driver.FIREFOX_DRIVER )) */ );
+				(WebDriverFactory.driver( WebDriverFactory.Driver.CHROME_DRIVER )), //
+				(WebDriverFactory.driver( WebDriverFactory.Driver.FIREFOX_DRIVER )) );
 	}
 
 }
